@@ -1,2 +1,11 @@
 # hello-world
-hello GitHub 
+// hello GitHub 
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+    
+    // Output: "Hello World!
+    System.out.println("Hello World!");
+    
+}
